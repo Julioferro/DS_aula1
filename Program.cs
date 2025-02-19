@@ -10,7 +10,7 @@ namespace Aula01Variaveis
            //VerificarAulaEtec();
            CalcularMedia();
         }
-
+// metodo para verificar aula
         public static void CalcularMedia()
         {
             Console.WriteLine("Digite a primeira nota");
